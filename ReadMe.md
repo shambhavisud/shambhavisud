@@ -12,8 +12,6 @@
 
 <br>
 
-<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
-
 [![Linkedin Badge](https://img.shields.io/badge/-ShambhaviSud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shambhavi-sud-34166419a/)](https://www.linkedin.com/in/shambhavi-sud-34166419a/)
 
 [![Gmail Badge](https://img.shields.io/badge/-ss116@snu.edu.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ss116@snu.edu.in)](mailto:ss116@snu.edu.in)
