@@ -14,9 +14,9 @@
 
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shambhavi-sud-34166419a/)](https://www.linkedin.com/in/shambhavi-sud-34166419a/)
+[![Linkedin Badge](https://img.shields.io/badge/-ShambhaviSud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shambhavi-sud-34166419a/)](https://www.linkedin.com/in/shambhavi-sud-34166419a/)
 
-[![Gmail Badge](https://img.shields.io/badge/-ritikumariupadhyay24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ss116@snu.edu.in)](mailto:ss116@snu.edu.in)
+[![Gmail Badge](https://img.shields.io/badge/-ss116@snu.edu.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ss116@snu.edu.in)](mailto:ss116@snu.edu.in)
 
 ---
 
@@ -29,7 +29,7 @@
  ---
  
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/shambhavisud2012/count.svg?align=center)
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=shambhavisud)  
  
@@ -37,13 +37,13 @@
  <hr>
  
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riti2409&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shambhavisud&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
 ---
  
 
-[![shambhavi's github activity graph](https://activity-graph.herokuapp.com/graph?username=riti2409&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+[![shambhavi's github activity graph](https://activity-graph.herokuapp.com/graph?username=shambhavisud&theme=react-dark)](https://github.com/shambhavisud/github-readme-activity-graph)
 
   
 
