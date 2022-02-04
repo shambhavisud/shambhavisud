@@ -1,16 +1,22 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://c4.wallpaperflare.com/wallpaper/175/128/20/creative-graphics-sky-starry-sky-starry-wallpaper-preview.jpg" alt="cover" />
 </div>
+</br>
+
+ **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ ![visitors](https://profile-counter.glitch.me/shambhavisud2012/count.svg?align=center)
+ 
+
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
- ---
+</br>
 
-- 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ![visitors](https://profile-counter.glitch.me/shambhavisud2012/count.svg?align=center)
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+ 
+ <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-
-- 🌱 **About myself**<br>
+<!-- - 🌱 **About myself**<br> -->
 
 - 🔭 I’m currently working on Backend API for a coding bootcamp website.
 
