@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on Backend API for a coding bootcamp website.
 
-- 🌱 I’ve experience in MERN stack development
+- 🌱 I’ve experience in Big Data Spark, Hadoop and Backend Technologies Node.js, Express.js, MySQL, MongoDB
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
